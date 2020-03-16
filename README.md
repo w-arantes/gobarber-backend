@@ -7,7 +7,7 @@ GoBarber
 </h1>
 
 <p align="center">GoBarber - Backend API REST with NodeJS and Express</p>
-<p align="center">Project based on a scheduling service for barbers, promoting control, organization and convenience to their customers.</p>
+<p align="center">Project based on a scheduling service for barbers promoting control, organization and convenience to their customers.</p>
 
 <p align="center">
   <a href="http://makeapullrequest.com">
