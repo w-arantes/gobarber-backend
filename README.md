@@ -46,6 +46,7 @@ Libraries featured in this project.
 - [**Mongoose**](https://www.npmjs.com/package/mongoose) — NoSQL Dialect/ODM(MongoDB) for NodeJS
 - [**Multer**](https://www.npmjs.com/package/multer) — Middleware library to multipart/form-data
 - [**Youch**](https://www.npmjs.com/package/youch) — A strucuture HTML/JSON for errors
+- [**Cors**](https://github.com/expressjs/cors) — Package for providing a Connect/Express middleware
 
 ## Getting started
 
